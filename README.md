@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">٩(✿∂‿∂✿)۶Hihi！！😀🎉 </h1> 
 
-<!--
-**Lu-gogo/Lu-gogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🐷我是菜菜の露露希 இдஇ
 
-Here are some ideas to get you started:
+🐼🎍 是来自中国的~~富家千金~~，想要成为前端工程师💻，闲暇之余是模型师🤖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🦊关于我
+- 👨‍💻 技术栈: HTML | CSS | JavaScript | TypeScript | React | Vue | node.JS
+- 🔗 个人网站: lulucy.com ~~快开搓了~~
+- 🏭 项目:~~快开搓了~~
+
+  
+# 🐽近况
+<p><img align="center" style="width: 400px; height: 200px;" src="https://github-readme-stats.vercel.app/api?username=lu-gogo&show_icons=true&locale=en&title_color=ffffff&icon_color=ffc2d1&text_color=ffffff&bg_color=ff6b9d,ff8fab,ffc2d1&hide_border=true&border_radius=15&gradient=true" alt="lu-gogo" />
+   <img align="center" style="width: 350px; height: 170px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=lu-gogo&show_icons=true&locale=en&layout=compact&title_color=ffffff&icon_color=ffc2d1&text_color=ffffff&bg_color=ff6b9d,ff8fab,ffc2d1&hide_border=true&border_radius=15&gradient=true" alt="lu-gogo" />
+</p>
+
+# 📋计划
+- [ ] React文档阅读
+- [ ] 用React搓项目
+- [ ] Vue文档阅读
+- [ ] 用React搓项目
+- [ ] node.js学习
+- [ ] 个人网站制作
+
