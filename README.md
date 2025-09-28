@@ -11,8 +11,8 @@
 
   
 # 🐽近况
-<p><img align="center" style="width: 400px; height: 200px;" src="https://github-readme-stats.vercel.app/api?username=lu-gogo&show_icons=true&locale=en&title_color=ffffff&icon_color=ffc2d1&text_color=ffffff&bg_color=ff6b9d,ff8fab,ffc2d1&hide_border=true&border_radius=15&gradient=true" alt="lu-gogo" />
-   <img align="center" style="width: 350px; height: 170px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=lu-gogo&show_icons=true&locale=en&layout=compact&title_color=ffffff&icon_color=ffc2d1&text_color=ffffff&bg_color=ff6b9d,ff8fab,ffc2d1&hide_border=true&border_radius=15&gradient=true" alt="lu-gogo" />
+<p><img align="center" style="width: 400px; height: 200px;" src="https://github-readme-stats.vercel.app/api?username=lu-gogo&show_icons=true&locale=en&title_color=d23669&icon_color=ff6b9d&text_color=8a4b6a&bg_color=fff0f5&hide_border=true" alt="lu-gogo" />
+   <img align="center" style="width: 350px; height: 170px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=lu-gogo&show_icons=true&locale=en&layout=compact&title_color=ff6b9d&text_color=8a4b6a&bg_color=fff0f5&hide_border=true&border_radius=10" alt="lu-gogo" />
 </p>
 
 # 📋计划
